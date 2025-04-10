@@ -4,7 +4,7 @@
 # checksum, then secures it with XOR. Both the resulting
 # XOR'd file and the key are dumped to two files.
 #
-# *.q -> XOR Secure Item JSON Data
+# *.q -> XOR Secure quest JSON Data
 # *.sum -> SHA512 Checksum
 #
 # .sum files are not included in release builds.
